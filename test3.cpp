@@ -2,6 +2,6 @@
 int main()
 {
     // problem is solved
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "version1" << std::endl;
     return 0;
 }
